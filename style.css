@@ -40,7 +40,7 @@ footer {
 	width: 900px;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 1000px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
     width: 700px;
